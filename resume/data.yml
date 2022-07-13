@@ -11,8 +11,8 @@ about: Hi, my name is John Doe. I'm just about the most boring type of person yo
 position: Software Developer
 
 birth:
-  year: 1983
-  location: Saskatoon, Canada
+  year: 
+  location: 
 
 # you may add more experiences by duplicating the template
 
@@ -87,7 +87,7 @@ contributions:
   url: https://github.com/salomonelli/best-resume-ever
 
 contact:
-  email: Yongchanghe8@gmail.com
+  email: yongchanghe8@gmail.com
   phone: 306 241 2593
   street: 110 Keevil crescent
   city: Saskatoon
