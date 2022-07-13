@@ -12,26 +12,26 @@ position: Software Developer
 
 birth:
   year: 
-  location: 
+  location: China
 
 # you may add more experiences by duplicating the template
 
 experience:
 - company: Company A
   position: Developer
-  timeperiod: since January 2016
+  timeperiod: since January 2020
   description: Programming and watching cute cat videos.
-  website: https://example.com
+  website: 
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+- company: 
+  position: 
+  timeperiod: 
+  description: 
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: 
+  position: 
+  timeperiod: 
+  description: 
 
 education:
 - degree: Master of Science
@@ -45,19 +45,19 @@ education:
 
 # skill level goes from 0 to 100
 skills:
-- name: HTML5
+- name: Java
   level: 99
-- name: CSS3
+- name: Python
   level: 95
 - name: JavaScript
   level: 97
 - name: Node.js
   level: 93
-- name: Angular 2
+- name: React.js
   level: 60
 - name: TypeScript
   level: 80
-- name: ES.Next
+- name: Blockchain Ethereum
   level: 70
 - name: Docker
   level: 99
@@ -65,11 +65,11 @@ knowledge: Also proficient in Adobe Photoshop and Illustrator, bilingual
   (English and Chinese Mandarin).
 
 projects:
-- name: best-resume-ever
-  platform: Vue
-  timeperiod: February 2016
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: Feedback app
+  platform: React.js, Express.js, Json server
+  timeperiod: June 2022 - July 2022
+  description: A simple Feedback UI application demo
+  url: https://62ce4babd8e5fd35e9b63556--thriving-meerkat-4b84ee.netlify.app/
 
 # optional, not all resume templates have hobbies included
 hobbies:
@@ -82,16 +82,16 @@ hobbies:
   url: https://example.com
 
 contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: 
+  description: 
+  url: 
 
 contact:
   email: yongchanghe8@gmail.com
   phone: 306 241 2593
   street: 110 Keevil crescent
   city: Saskatoon
-  website: dev.to/yongchanghe
+  website: yonglearner.com
   github: hyc0812
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
 lang: en
